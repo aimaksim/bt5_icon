@@ -1,4 +1,4 @@
-# bt6_icon
+# bt5_icon
 Bootstrap Icon
 
 Preview :
